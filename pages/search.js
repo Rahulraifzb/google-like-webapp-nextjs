@@ -13,7 +13,7 @@ function search({results}) {
                 <title>{router.query.term} - Google Search</title>
                 <link rel="icon" href="/favicon.ico" />
             </head>
-
+        
             <Header />
 
             {/* Search results */}
