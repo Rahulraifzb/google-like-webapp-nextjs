@@ -50,7 +50,7 @@ export default function Home() {
       </header>
 
       {/* Body */}
-        <form className="flex flex-col items-center mt-44 flex-grow w-4/5" onSubmit={search}>
+        <form className="flex flex-col items-center justify-center flex-grow w-4/5" onSubmit={search}>
           <Image
             src="/google logo.png"
             width={250}
